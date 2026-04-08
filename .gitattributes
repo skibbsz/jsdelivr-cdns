@@ -1,0 +1,2 @@
+geometrydashlite/image/process_bar_front.png filter=lfs diff=lfs merge=lfs -text
+geometrydashlite/image/process_bar_back.png filter=lfs diff=lfs merge=lfs -text
